@@ -49,10 +49,10 @@
     "webpack-dev-server": "^4.7.4"
   },
   "consolePlugin": {
-    "name": "its4u-plugin-console",
+    "name": "console-plugin-template",
     "version": "0.0.1",
-    "displayName": "ITS4U OpenShift Console Plugin",
-    "description": "ITS4U OpenShift Console Plugin",
+    "displayName": "OpenShift Console Plugin Template",
+    "description": "Template project for OpenShift console plugins. Edit package.json to change this message and the plugin name.",
     "exposedModules": {
       "ExamplePage": "./components/ExamplePage"
     },
